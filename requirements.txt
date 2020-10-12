@@ -1,3 +1,5 @@
+numpy==1.19.2
+scikit-learn==0.23.2
 matplotlib
 pytorch-lamb
 tensorboardX
@@ -5,7 +7,7 @@ fastprogress
 sklearn
 spacy
 seqeval
-tokenizers==0.8.1.rc1
+tokenizers==0.8.1.rc2
 transformers>=3.0.2
 pandas
 python-box
